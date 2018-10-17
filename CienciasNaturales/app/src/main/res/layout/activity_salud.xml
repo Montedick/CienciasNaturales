@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:gravity="center"
+    android:layout_height="match_parent"
+    tools:context="com.example.montelongo.cienciasnaturales.salud">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/TxtTitulo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="1. Hidrátate"
+                android:textSize="35dp" />
+
+            <TextView
+                android:id="@+id/TxtTexto"
+                android:layout_width="360dp"
+                android:layout_height="match_parent"
+                android:layout_marginTop="25dp"
+                android:text="Tomar mucha agua esto  ayudará a tu cuerpo a  desempeñar funciones vitales como la digestión, el transporte de nutrientes y la expulsión de desechos."
+                android:textSize="20dp" />
+
+            <ImageView
+                android:id="@+id/ImagenSalud"
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:layout_marginTop="20dp"
+                app:srcCompat="@mipmap/hidratacion" />
+
+            <Button
+                android:id="@+id/Siguiente"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="25dp"
+                android:text="Siguiente" />
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

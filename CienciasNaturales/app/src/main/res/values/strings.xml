@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CienciasNaturales</string>
+    <string name="efecto">El calor es la energía que pasa de un cuerpo a\n otro porque se encuentran a distinta temperatura.\n
+    Al suministrar calor a un cuerpo,\n éste siempre sufrirá algún cambio, una transformación.\n
+    1 DILATACIÓN \nCon el calor, los cuerpos se hacen más grandes.\n Cuando se calienta un cuerpo, además de cambiar de estado o variar su temperatura,\n
+        también cambia de tamaño, se dilata.\n
+    2 CAMBIO DE ESTADO.\n
+        Los líquidos pasan a gases.\n Los sólidos se convierten en líquidos.\n
+    3 CAMBIO DE TEMPERATURA.\n
+        Al calentar la temperatura aumenta.\n
+        Es el efecto más inmediato y más normal del calor es el aumento de la temperatura.\n Al calentar un cuerpo, aunque no siempre,\n es habitual que el cuerpo aumente de temperatura</string>
+    <string name="cuidado">Algunos de los cuidados o acciones que debemos hacer son:\n
+
+\n1. No talar los bosques, pero si cortamos algún árbol debemos cortar el más antiguo y sembrar varios en su lugar, para evitar que no se extingan.
+\n2. Evitar que los animales sean cazados indiscriminadamente.
+\n3. Cuidar el agua. No dejar abierta ninguna llave ni permitir que gotee.
+\n4.  Reciclar plásticos y papeles
+\n5. Reutilizar las bolsas y envases de vidrio y plástico, aunque es preferible utilizar bolsas de papel o cualquier otro material biodegradable.
+\n6. Utilizar bombillas o focos ahorradores.
+\n7. Entre otras cosas mas
+</string>
+</resources>
